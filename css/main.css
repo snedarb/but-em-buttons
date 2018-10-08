@@ -1,0 +1,16 @@
+html {
+  font-family: "Ubuntu Condensed", sans-serif;
+  background-image: url("../images/starfield.png");
+  color: #fff;
+  text-shadow: 0 0 10px #fff;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  padding: .5em .75em;
+  background-color: rgba(180, 255, 244, .2);
+  color: #b4fff4;
+  border-color: #b4fff4;
+  text-decoration: none;
+}
